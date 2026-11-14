@@ -72,5 +72,6 @@ python -m streamlit run app.py
 ---
 
 ### 👤 Contact & Contribution
-Talluru Chandrakanth
+Vanipenta Lakshmi Anjitha Reddy
+
 
